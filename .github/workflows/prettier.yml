@@ -17,9 +17,9 @@ jobs:
         with:
           node-version: "18"
 
-      - name: Install Prettier
-        run: npm install -g prettier
+      - name: Install Dependencies
+        run: npm install
 
       - name: Check Format
         run: |
-          prettier -c "./**/*.{js,css,json}"
+          npx prettier -c "./**/*.{js,css,json}"
