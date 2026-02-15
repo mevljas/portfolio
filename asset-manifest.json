@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.a154efc9.css",
-    "main.js": "/developerFolio/static/js/main.f8bd689b.js",
+    "main.js": "/developerFolio/static/js/main.61c259e8.js",
     "static/css/487.bb36206c.chunk.css": "/developerFolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.bbe099a9.chunk.js": "/developerFolio/static/js/487.bbe099a9.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/developerFolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.baec7a7b.chunk.js": "/developerFolio/static/js/990.baec7a7b.chunk.js",
-    "static/media/Resume.pdf": "/developerFolio/static/media/Resume.42a0d5ea3002f7c8d644.pdf",
+    "static/media/Resume.pdf": "/developerFolio/static/media/Resume.3b702e244780c86d9cec.pdf",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/telekomSlovenije.png": "/developerFolio/static/media/telekomSlovenije.078bb4e8c6e1b7c7e94d.png",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -23,7 +23,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.a154efc9.css.map": "/developerFolio/static/css/main.a154efc9.css.map",
-    "main.f8bd689b.js.map": "/developerFolio/static/js/main.f8bd689b.js.map",
+    "main.61c259e8.js.map": "/developerFolio/static/js/main.61c259e8.js.map",
     "487.bb36206c.chunk.css.map": "/developerFolio/static/css/487.bb36206c.chunk.css.map",
     "487.bbe099a9.chunk.js.map": "/developerFolio/static/js/487.bbe099a9.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/developerFolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.a154efc9.css",
-    "static/js/main.f8bd689b.js"
+    "static/js/main.61c259e8.js"
   ]
 }
